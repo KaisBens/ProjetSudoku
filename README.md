@@ -3,7 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
 # PROJETJAVA
 
@@ -200,20 +199,9 @@ Run the project with:
 </details>
 
 <details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://LOCAL{//ProjetJava/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=/ProjetJava">
-   </a>
-</p>
-</details>
 
 ---
 
-## Acknowledgments
-
-- Credit `contributors`, `inspiration`, `references`, etc.
 
 <div align="right">
 
