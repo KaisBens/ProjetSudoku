@@ -11,7 +11,7 @@
 <!-- BADGES -->
 <!-- local repository, no metadata badges. -->
 
-<em>Built with the tools and technologies:</em>
+<em>Built with the tools and technologies</em>
 
 
 </div>
